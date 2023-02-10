@@ -1,9 +1,9 @@
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
-[![NPM downloads][npm-coreui-download]][npm-coreui]  
+[![NPM downloads][npm-coreui-download]][npm-coreui]
 [![@coreui vue](https://img.shields.io/badge/@coreui%20-vue-lightgrey.svg?style=flat-square)](https://github.com/coreui/vue)
 [![npm package][npm-coreui-vue-badge]][npm-coreui-vue]
-[![NPM downloads][npm-coreui-vue-download]][npm-coreui-vue]  
+[![NPM downloads][npm-coreui-vue-download]][npm-coreui-vue]
 [![npm next][npm-next]][npm]
 
 [npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
@@ -14,6 +14,10 @@
 [npm-coreui-vue-download]: https://img.shields.io/npm/dm/@coreui/vue.svg?style=flat-square
 [npm-next]: https://img.shields.io/npm/v/@coreui/vue/next.png?style=flat-square
 [npm]: https://www.npmjs.com/package/@coreui/vue
+
+# CoreUI Vue template
+
+coreui + vue 를 기반으로 만든 템플릿으로 무료 템플릿 중 가장 심플함.
 
 # CoreUI Free Vue Admin Template v4
 
@@ -71,7 +75,7 @@ $ yarn install
 $ npm run serve
 ```
 
-or 
+or
 
 ``` bash
 # dev server with hot reload at http://localhost:3000
@@ -111,7 +115,7 @@ coreui-free-vue-admin-template
 │   ├── layouts/     # layout containers
 │   ├── scss/        # scss styles
 │   ├── router       # routes config
-│   └── store        # template state example 
+│   └── store        # template state example
 │   ├── views/       # application views
 │   ├── _nav.js      # sidebar navigation config
 │   ├── App.vue
@@ -164,7 +168,7 @@ Support this project by [becoming a Platinum Sponsor](https://opencollective.com
 
 Support this project by [becoming a Gold Sponsor](https://opencollective.com/coreui/contribute/gold-sponsor-40960/). A big company logo will be added here with a link to your website.
 
-<a href="https://opencollective.com/coreui/contribute/gold-sponsor-40960/checkout"><img src="https://opencollective.com/coreui/tiers/gold-sponsor/0/avatar.svg?avatarHeight=100"></a> 
+<a href="https://opencollective.com/coreui/contribute/gold-sponsor-40960/checkout"><img src="https://opencollective.com/coreui/tiers/gold-sponsor/0/avatar.svg?avatarHeight=100"></a>
 
 ### Silver Sponsors
 
@@ -176,7 +180,7 @@ Support this project by [becoming a Silver Sponsor](https://opencollective.com/c
 
 Support this project by [becoming a Bronze Sponsor](https://opencollective.com/coreui/contribute/bronze-sponsor-40966/). The company avatar will show up here with a link to your OpenCollective Profile.
 
-<a href="https://opencollective.com/coreui/contribute/bronze-sponsor-40966/checkout"><img src="https://opencollective.com/coreui/tiers/bronze-sponsor/0/avatar.svg?avatarHeight=100"></a> 
+<a href="https://opencollective.com/coreui/contribute/bronze-sponsor-40966/checkout"><img src="https://opencollective.com/coreui/tiers/bronze-sponsor/0/avatar.svg?avatarHeight=100"></a>
 
 ### Backers
 
@@ -188,15 +192,8 @@ Thanks to all the backers and sponsors! Support this project by [becoming a back
 
 ## Copyright and License
 
-copyright 2022 creativeLabs Łukasz Holeczek.   
+copyright 2022 creativeLabs Łukasz Holeczek.
 
- 
+
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/master/LICENSE).
 There is only one limitation you can't can’t re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In past we faced some problems with persons who tried to sell CoreUI based templates.
-# dev-coreui-vue
-# dev-coreui-vue
-# dev-coreui-vue
-# dev-coreui-vue
-# dev-vue-coreui
-# dev-vue-coreui
-# dev-vue-coreui
